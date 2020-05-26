@@ -11,3 +11,5 @@ def input_to_index(user_input)
   index -= 1
   return index
 end
+
+def vali
